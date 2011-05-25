@@ -1,0 +1,1 @@
+Welcome to Me_Budget project. Web app that helps you budget your income
